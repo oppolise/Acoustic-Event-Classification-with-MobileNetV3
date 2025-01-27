@@ -4,7 +4,6 @@ This project implements a real-time acoustic event classifier using MobileNetV3 
 
 ## ✨ Features
 
-- Real-time classification of audio spectrograms
 - Support for common image formats (jpg, jpeg, png)
 - Interactive web interface built with Streamlit
 - Classification probabilities for 10 urban sound categories
